@@ -1,6 +1,6 @@
 ### Hi there 👋  
 - 😊 I'm Amiru Horadagoda  
-- 👦🏻 I'm a 3rd-year undergraduate student at the University of Ruhuna
+- 👦🏻 I'm a final year undergraduate student at the University of Ruhuna
 - 👀 I'm passionate about learning Software Development, Web Development, and emerging technologies
 - 🌱 Currently pursuing a Bachelor's degree in Computer Engineering
 - 💻 Eager to gain practical experience in software development
