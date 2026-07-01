@@ -31,5 +31,5 @@ Here's an improved version with better spacing between icons:
 ## 📞 Contact Information
 - 📱 Mobile: +94717244872
 - 📧 Email: amirumithsara1234@gmail.com
-- 💻 GitHub: https://github.com/AmiruHoradagoda
+- 💻 Portfolio: https://amiruhoradagoda.github.io/portfolio/
 - 🔗 LinkedIn: https://www.linkedin.com/in/amiru-mithsara-42642614b/
